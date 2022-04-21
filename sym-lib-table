@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name RDC2-0051_L433-rescue)(type Legacy)(uri "F:/Женя/работа/Чип и Дип/проекты/RDC2-0051_L433_Oleg/RDC2-0051_L433-rescue.lib")(options "")(descr ""))
+  (lib (name "SigmaDSP ADAU1452_V2-cache")(type Legacy)(uri "F:/Женя/работа/Чип и Дип/проекты/RDC3-0027v2/SigmaDSP ADAU1452_V2-cache.lib")(options "")(descr ""))
+  (lib (name Streamer_ADAU1452_AD1934-rescue)(type Legacy)(uri ${KIPRJMOD}/Streamer_ADAU1452_AD1934-rescue.lib)(options "")(descr ""))
+)
