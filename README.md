@@ -58,7 +58,7 @@
 		</tr>
 		<tr>
 			<td class="tcenter">192 кГц</td>
-			<td class="tcenter"><img alt="" height="60" src="https://static.chipdip.ru/lib/021/DOC016021096.jpg" width="300" /></td>
+			<td class="tcenter"><img alt="" src="https://static.chipdip.ru/lib/021/DOC016021096.jpg" width="300" /></td>
 		</tr>
 	</tbody>
 </table>
